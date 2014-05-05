@@ -1,0 +1,4 @@
+base:
+  '*':
+     - locust
+     - supervisor
